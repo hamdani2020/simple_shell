@@ -1,0 +1,34 @@
+.TH man 1 "April 3, 2021" "1.0" "hsh General Manual page"
+
+.SH  NAME
+hsh - simple command line interpreter
+
+.SH SYNOPSIS
+./hsh (arguments not supported)
+[command] [options]
+
+.SH DESCRIPTION
+This program is order line translator, contains the most essential highlights and works found in the different shell programs.
+
+.SH OVERVIEW
+This Simple Shell project is a significant group project led by sertse and abebayehu, understudies at ALX, for instructive purposes. It comprises of creating and making our own clone of Run - Debian Almquist shell tracked down in a few renditions of Ubuntu Linux. However cloning of Run was the overall direction, having similar careful functionalities and highlights was not the objective. The objective for us was to learn and foster different group and individual abilities with respect to coding and git.
+
+.SH RETURN VALUE
+The shell returns the mistake code given by the last finished order followed by either ctrl-d or exit with no status codeand returns 1 when Ctrl+C.
+
+.SH SYNTAX
+#> <command> <flags or options> <argument 1> <argument 2> ...
+
+.SH BUILTIN COMMANDS
+.SS env
+- list the current environment variables
+
+.SS exit
+- exit the shell
+
+.SH AUTHORS
+Sertsedengle Shewandagn < https://github.com/sertsev >
+Deborah Getachew < https://github.com/DG-h1S >
+
+.SH SEE ALSO
+DASH(1)
