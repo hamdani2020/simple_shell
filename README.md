@@ -3,6 +3,8 @@ Simple Unix Shell
      C programming Language
 ******************************************************************
 
+![image](s.png)
+
 ## Description:
     
 Implementation of a basic shell. In Linux and other UNIX-based operating systems, the shell is an interactive interface through which users can run various commands and functions. Shells employ either a command-line interface or a graphical user interface, depending on a computer's purpose and specific task.
