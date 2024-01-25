@@ -1,4 +1,4 @@
-Simple Unix Shell
+## Simple Unix Shell
 *****************************************************************
      C programming Language
 ******************************************************************
@@ -13,11 +13,11 @@ Implementation of a basic shell. In Linux and other UNIX-based operating systems
 
 - clone the repository
 
-     https://github.com/hamdani2020/simple_shell
+    ``https://github.com/hamdani2020/simple_shell``
 
 - compile with
 
-     gcc -Wall -Werror -Wextra -pedantic *.c -o tsh
+     ``gcc -Wall -Werror -Wextra -pedantic *.c -o tsh``
 
 
 ## Example:
