@@ -55,3 +55,5 @@ The work is still in process, therefore many features like as aliases, piping, r
 ## Authors
 
 * [**Alhassan Hamdani Gandi**](https://github.com/hamdani2020)
+
+[LICENCE](LICENCE)
