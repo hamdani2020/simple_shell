@@ -1,11 +1,10 @@
 ![Repo size](https://img.shields.io/github/repo-size/hamdani2020/simple_shell)
-![Betty style](https://img.shields.io/badge/PEP8-style%20guide-purple?style=round-square)
+![Betty style](https://img.shields.io/badge/BETTY-style%20guide-purple?style=round-square)
 ![Latest commit](https://img.shields.io/github/last-commit/hamdani2020/alx-backend/main?style=round-square)
 
 ## Simple Unix Shell
 
-     C programming Language
---------------------
+### Screenshot
 
 ![image](s.png)
 
